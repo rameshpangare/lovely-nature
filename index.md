@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+The world is animated by the wind. This invisible, mysterious force can bring a landscape alive. Its absence can cast a calm stillness over the earth. On barren mountain tops its power is barely perceptible; in forests and seas its presence becomes manifest.
 
-You can use the [editor on GitHub](https://github.com/rameshpangare/lovely-nature/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Winds are wild, and sometimes destructive. When we look deeply into the nature of wind, when we reflect on its life, its journey to us, we can see the interconnected nature of all things. The light from the sun travels to the surface of the earth, where air is heated unevenly over land and sea causing it to expand and rise at different rates until this rising and displacing air builds in billowing gusts that rock the oceans and ripple the seas. The wind can make rag-dolls of trees, ripping them from their roots.
 
 ### Markdown
 
@@ -11,8 +9,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# LOVELY NATURE
+## The world is animated by the wind. This invisible, mysterious force can bring a landscape alive. Its absence can cast a calm stillness over the earth. On barren mountain tops its power is barely perceptible; in forests and seas its presence becomes manifest.
+
+Winds are wild, and sometimes destructive. When we look deeply into the nature of wind, when we reflect on its life, its journey to us, we can see the interconnected nature of all things. The light from the sun travels to the surface of the earth, where air is heated unevenly over land and sea causing it to expand and rise at different rates until this rising and displacing air builds in billowing gusts that rock the oceans and ripple the seas. The wind can make rag-dolls of trees, ripping them from their roots.
 ### Header 3
 
 - Bulleted
