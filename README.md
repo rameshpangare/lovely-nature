@@ -4,4 +4,5 @@ The world is animated by the wind. This invisible, mysterious force can bring a 
 ## MONSOON
 Monsoon holidays in India are surely a lifetime experience as the exotic locations leave you spellbound with its beauty. The hills and mountains get carpeted with lush greenery, the lakes overflow with sparkling water, the waterfall sceneries become heavenly to make you fall in love with Incredible India.
  ## WINTER
+ Winter is one of the most important seasons in India. It is a part of the four seasons that occur in India. Winters are the coolest season that starts from December and last till March. The peak time when winter is experienced the most in December and January. In India, winters hold great importance. In addition, the essence it has is admired by many people. Winters give you the time to indulge in various activities like snowball fighting, building snowmen, ice hockey and more. It is a great time for kids to enjoy their vacations and get cozy in their blankets.
 
